@@ -13,6 +13,7 @@
 # Automate scraping Y Combinator startups with Apify & Google Sheets
 
 > Community nodes are used, and this template can only be used on **self-hosted n8n instances**.
+<img width="1051" height="386" alt="image" src="https://github.com/user-attachments/assets/397492f9-61bc-4820-8818-c6cb96486bea" />
 
 This n8n template from Intuz provides a complete solution to automate the process of scraping company and founder data from Y Combinator.
 
